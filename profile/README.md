@@ -10,11 +10,6 @@ Não existir um modelo de predição para sugerir a melhor vaga ou treinamento a
 Modelo para recomendar a melhor vaga ou capacitação  para o usuário/candidato da plataforma. 
 
 
-## 🧩 O público-alvo:
-
-...
-
-
 ## 💻 Modelo Preditivo: 
 
 - Grupo 1 - ONE
